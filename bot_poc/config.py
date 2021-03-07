@@ -8,4 +8,4 @@ TEMPLATES_AUTO_RELOAD   = True
 
 # 設置 bot_poc.config
 BOT_API_KEY             = "1302043995:AAH73stA1Qzbtabyb4DHigjlUI3qwNE7Hx0"
-BOT_HOOK_URL            = "https://Domainnnnnnnnnnnnn/hook"
+BOT_HOOK_URL            = "https://anikartika.com/hook"
